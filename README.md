@@ -24,7 +24,7 @@ __*VS Code*__: baixe o setup [aqui](https://code.visualstudio.com/download) e in
 __*Github Desktop*__: baixe o setup [aqui](https://central.github.com/deployments/desktop/desktop/latest/win32) e logue sua conta.
 
 
-
+n
 dsadas
 
 ,.k
